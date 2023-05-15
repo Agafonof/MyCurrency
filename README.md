@@ -15,6 +15,7 @@ Pet-проект с API для сравнения курсов валют
 ### Stack
 
 - JavaScript
+- TypeScript
 - React
 - Redux-toolkit
 - Bootstrap, React-Bootstrap
